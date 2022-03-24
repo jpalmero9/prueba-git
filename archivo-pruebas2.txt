@@ -1,3 +1,5 @@
 este es el archivo de pruebas número 2
 
 ** agregamos nueva linea con archivo ya en stage
+
+hacer mas cambios en el archivo
