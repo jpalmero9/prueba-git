@@ -1,0 +1,2 @@
+este archivo es para la rama b
+a ver como funcionan las ramas
