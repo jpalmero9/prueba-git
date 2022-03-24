@@ -2,3 +2,5 @@ Este es el archivo número 3
 1ra. actualización del archivo de pruebas 3
 
 mas cambios que van a la rama b
+
+se modifica este archivo para la rama linux
