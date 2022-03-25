@@ -1,0 +1,7 @@
+este es una archivo windos de prueba version 2
+
+##Sección windows
+
+
+##Sección linux
+
