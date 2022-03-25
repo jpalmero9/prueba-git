@@ -10,3 +10,9 @@ mas actualizaciones en master
 mas modificaciones al archivo nro. 2
 
 ***estos son cambios para la rama b
+
+
+##Sección windows
+
+
+##Sección linux

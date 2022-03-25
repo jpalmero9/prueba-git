@@ -1,3 +1,9 @@
 este es para ser inluido en la rama master
 
 se modifica una line para windows
+
+
+##Sección windows
+
+
+##Sección linux
