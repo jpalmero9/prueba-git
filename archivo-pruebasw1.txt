@@ -1,1 +1,11 @@
 esta es una prueba de datos para la rama <i class="fa fa-windows" aria-hidden="true"></i>
+
+
+##Sección windows
+
+se modifica una line para windows
+
+
+##Sección linux
+
+se agrega una linea para linux

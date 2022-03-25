@@ -1,2 +1,12 @@
 este archivo es para la rama b
 a ver como funcionan las ramas
+
+##Sección windows
+
+se modifica una line para windows
+
+
+##Sección linux
+
+se agrega una linea para linux
+
